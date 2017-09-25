@@ -31,6 +31,7 @@ export default class LinksListItem extends Component {
                 <p>{this.props.url}</p>
                 <p>{this.props.shortUrl}</p>
                 <p>{this.props.visible.toString()}</p>
+                <p>{this.props.visitedCount} - {this.props.lastVisitedAt}</p>
                 <button ref="copy" data-clipboard-text={this.props.shortUrl}>
                 {this.state.justCopied ? 'Copied' : 'Copy'}
                 </button>
