@@ -25,17 +25,19 @@ class Login extends Component {
     }
     render() {
     return (
-        <div>
-        <h1>Log In</h1>
-
-        {this.state.error ? <p>{this.state.error}</p> : undefined}
-
-        <form onSubmit={this.onSubmit.bind(this)} noValidate>
-           <input type="email" ref="email" name="email" placeholder="Email" /> 
-           <input type="password" ref="password" name="password" placeholder="Password" /> 
-           <button>Log In</button>
-        </form>
-            <Link to="/signup">Not have an account?</Link>
+        <div className="boxed-view">
+            <div className="boxed-view__box">
+            <h1>Log In</h1>
+            
+                    {this.state.error ? <p>{this.state.error}</p> : undefined}
+            
+                    <form onSubmit={this.onSubmit.bind(this)} noValidate className="boxed-view__form">
+                       <input type="email" ref="email" name="email" placeholder="Email" /> 
+                       <input type="password" ref="password" name="password" placeholder="Password" /> 
+                       <button>Log In</button>
+                    </form>
+                        <Link to="/signup">Not have an account?</Link>
+            </div>
         </div>
     );
     }
