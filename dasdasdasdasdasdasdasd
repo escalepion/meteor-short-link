@@ -1,0 +1,133 @@
+[33mcommit c0206d329ff819b5366018acbef259b4ac8a84ad[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 13:56:23 2017 +0300
+
+    add flip move
+
+[33mcommit ea0b8500973696a5a0848a7f8bd441ae9b96ab2a[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 13:40:54 2017 +0300
+
+    styling the content
+
+[33mcommit 93442ef60ad69183449a1d47b0355f9ea9a12f00[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 13:19:03 2017 +0300
+
+    add no link found message
+
+[33mcommit c06241281130362564ea19364ff6aeef23527386[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 13:13:39 2017 +0300
+
+    styling content
+
+[33mcommit 7b8e55379dfa83003697937b392ec5652212dd04[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 12:52:34 2017 +0300
+
+    styling private header
+
+[33mcommit e35000ca8710c2c3214a3fbd12125f3df8b8d40d[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Wed Sep 27 12:32:49 2017 +0300
+
+    styling modal box
+
+[33mcommit f50fd6a2a8faab6a1362cc7b5b42e73d52b32a36[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 17:32:44 2017 +0300
+
+    styling buttons
+
+[33mcommit 2dbb967ca563efec6a82e2c4d2186ecdb6e44db0[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 16:34:07 2017 +0300
+
+    styling login and signup pages
+
+[33mcommit 54455116a48751a76a1314f91502470067f8d0ea[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 14:13:20 2017 +0300
+
+    add style architecture
+
+[33mcommit ee0d86f1e7effc2bbfa3e85fbca41a67e9f15944[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 13:59:12 2017 +0300
+
+    add scss package
+
+[33mcommit b568929d833b193deb9c849ba316584fa52ad669[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 13:14:07 2017 +0300
+
+    add modal errors
+
+[33mcommit eca10a5ba5385b4deb74f196697694ac93234df0[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Tue Sep 26 12:24:50 2017 +0300
+
+    add modal
+
+[33mcommit 06cdaf1b8c4582a765a999cb8691178471401bd5[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Mon Sep 25 15:38:55 2017 +0300
+
+    add visited time
+
+[33mcommit 1becf101142557003f849f09af5ec795022d3095[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Mon Sep 25 14:31:15 2017 +0300
+
+    add visited count & time
+
+[33mcommit 1ad8426e20824adbc6e4c292975848c8a0c62310[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 23:16:45 2017 +0300
+
+    hide unhide checkbox conf
+
+[33mcommit 98d00fa31055d48b5f91ea16a8195529101f0b04[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 22:10:21 2017 +0300
+
+    add session package
+
+[33mcommit bbf808c119f99c2b87bd78a299286721eb22f3d1[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 21:56:15 2017 +0300
+
+    hide link
+
+[33mcommit e180a5a19cc7fb2efaa51fb1f85e93ad2f244389[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 18:53:31 2017 +0300
+
+    change the button
+    
+     text
+
+[33mcommit ae05a8986a2a981132b72f4df2375686948047b5[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 18:38:46 2017 +0300
+
+    copying the link to clipboard
+
+[33mcommit b3a80ce29fc7d7f44e762ebb2025e73fc44580a2[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 16:42:23 2017 +0300
+
+    add linklistitem
+
+[33mcommit 2283ea0a3cb2a162067c6e84133bf5143e9a710c[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 15:47:51 2017 +0300
+
+    added functional components
+
+[33mcommit 78ba0d4af673b894077c1cbfacde18b84c26ec97[m
+Author: escalepion <escalepion@gmail.com>
+Date:   Sun Sep 24 14:31:33 2017 +0300
+
+    initial commit
